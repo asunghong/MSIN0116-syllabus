@@ -77,23 +77,24 @@ While no books are required for this class, I recommend a selection of the follo
   1. **Foundational**
     - Diez, D. M., C. D. Barr, and M. Cetinkaya-Rundel (2015). [OpenIntro Statistics](https://www.openintro.org/stat/textbook.php). OpenIntro.
     - Grant, R. M. (2016). Contemporary Strategy Analysis. United Kingdom: John Wiley & Sons Ltd.
-    - Varian, H. R. and C. Shapiro (1998). Information Rules. Cambridge: Harvard Business School Press.
 
   2. **Analytics**
-    - Berinato, S. (2016). Good Charts. Boston: Harvard Business Review Press.
     - Few, S. (2012). Show Me The Numbers: Designing Tables and Graphs to Enlighten. Burlingame, CA: Analytics Press.
     - James, G., D. Witten, T. Hastie, and R. Tibshirani (2015). [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/). New York: Springer.
     - Morgan, S.L. and C. Winship (2007). Counterfactuals and Causal Inference. Cambridge: Cambridge University Press.
 
 ## Schedule
-We will break down each day into six blocks of approximately 70 minutes and class time will be divided between interactive lectures and student-led sessions.
+We will break down each day into six blocks of approximately 70 minutes and class time will be divided between interactive lectures (&#x1F4E3;) and investigations (&#x1F50E;).
 
-| Block                              | Topic                                                                                                                                                                                                     |
-| :---                               | :----                                                                                                                                                                                                     |
-| <br>1<br>2<br>3<br><br>4<br>5<br>6 | **Day 1**<br>Introduction                 <br> Strategy (P)review <br> Problem Framing <br> _Lunch_ <br> Problem Framing (cont'd) <br> Probability/Statistics <br> Data Summarization Lab                 |
-| <br>1<br>2<br>3<br><br>4<br>5<br>6 | **Day 2**<br>Case: Yammer — Data Insights <br> Inference/Regression <br> Inference/Regression (cont'd) <br> _Lunch_ <br> Regression Lab <br> Correlation and Causation <br> Correlation and Causation Lab |
-| <br>1<br>2<br>3<br><br>4<br>5<br>6 | **Day 3**<br>Causal Models                <br> Causal Model Lab <br> Economics of Data / Platforms <br> _Lunch_ <br> Platforms Discussion <br> Experiments <br> Experiments Lab                           |
-| <br>1<br>2<br>3<br><br>4<br>5<br>6 | **Day 4**<br>Case: Yammer — Experiments   <br> Advanced Methods <br> Advanced Methods Lab <br> _Lunch_ <br> Ethics Debates <br> Ethics Debates <br> Conclusion                                            |
+| Block | Day 1                             | Day 2                                  | Day 3                                  | Day 4                               |
+| :---  | :----                             | :----                                  | :----                                  | :----                               |
+| 1     | &#x1F4E3;Introduction             | &#x1F50E;Case: Yammer — Data Insights  | &#x1F4E3;Causal Models                 | &#x1F50E;Case: Yammer — Experiments |
+| 2     | &#x1F4E3;Strategy (P)review       | &#x1F4E3;Inference/Regression          | &#x1F50E;Causal Model Lab              | &#x1F4E3;Advanced Methods           |
+| 3     | &#x1F50E;Problem Framing          | &#x1F4E3;Inference/Regression (cont'd) | &#x1F4E3;Economics of Data / Platforms | &#x1F50E;Advanced Methods Lab       |
+|       | _Break_                           | _Break_                                | _Break_                                | _Break_                                    |
+| 4     | &#x1F50E;Problem Framing (cont'd) | &#x1F50E;Regression Lab                | &#x1F50E;Platforms Discussion          | &#x1F50E;Ethics Debates             |
+| 5     | &#x1F4E3;Probability/Statistics   | &#x1F4E3;Correlation and Causation     | &#x1F4E3;Experiments                   | &#x1F50E;Ethics Debates             |
+| 6     | &#x1F50E;Data Summarization Lab   | &#x1F50E;Correlation and Causation Lab | &#x1F50E;Experiments Lab               | &#x1F4E3;Conclusion                 |
 
 ## Reading List
 Please visit the [UCL Reading List](http://readinglists.ucl.ac.uk/lists/7BF5AF09-2B92-9B53-D6E2-B00BE08E56C5.html) to see the readings for this course.
