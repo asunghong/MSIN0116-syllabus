@@ -68,61 +68,22 @@ If you intend on using a programming language to produce your work, I highly sug
 - [Model Analytics Python Tutorial](https://community.modeanalytics.com/python/)
 - [Learn Python the Hard Way](https://learnpythonthehardway.org/book/)
 
-## Datasets and Data Repositories
-There is no shortage of housed data, data repositories online, and lists of data repositories. At the risk of creating a dataset of datasets, here are a few places to go:
-
-  1. Repositories
-    - [Data is Plural](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0)
-    - [AWS Datasets](https://aws.amazon.com/datasets/)
-    - [Github Awesome Datasets](https://github.com/caesar0301/awesome-public-datasets)
-    - [Kaggle Data Sets](https://www.kaggle.com/datasets)
-    - [KD Nuggets List](http://www.kdnuggets.com/datasets/index.html)
-    - [MSFT Research Open Data sets](https://www.microsoft.com/en-us/research/academic-program/data-science-at-microsoft-research/)
-    - [Open Data Science I](https://github.com/datasciencemasters/data)
-    - [Open Data Science II](https://github.com/datasciencemasters/go/blob/master/datasets.md)
-    - [UCI Repository](http://archive.ics.uci.edu/ml/datasets.html)
-    - [Stanford Large Network Dataset Collection](http://memetracker.org/data/index.html)
-
-  2. Interesting datasets
-    - [Free Music Archive (FMA) Music Analysis Dataset](https://github.com/mdeff/fma)
-    - [Instacart Orders](https://www.instacart.com/datasets/grocery-shopping-2017)
-    - [Amazon Product Data](http://jmcauley.ucsd.edu/data/amazon/)
-    - [Reddit Comment Datasets](https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/)
-    - [GDELT global news dataset](http://gdeltproject.org)
-    - [Archive's Face-o-Matic](https://archive.org/details/faceomatic)
-
-  3. Social discussions
-    - [/r/datasets](https://www.reddit.com/r/datasets/search?sort=new&restrict_sr=on&q=flair%3Adataset)
-    - [Quora Dataset Question](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
-
-  4. Government data
-    - [London Datastore](http://data.london.gov.uk)
-    - [UK Government](https://data.gov.uk)
-    - [US Government](https://www.data.gov)
-    - [European Union Open Data Portal](https://data.europa.eu/euodp/en/data/)
-    - [European Data Portal](https://www.europeandataportal.eu)
-    - [Observatory of Economic Complexity](http://atlas.media.mit.edu/en/)
-
-  5. Data websites
-    - [Open Data Certificate](https://certificates.theodi.org/en/datasets)
-    - [Data World](https://data.world)
-    - [DBPedia](http://wiki.dbpedia.org)
+## Datasets
+Data is everywhere online. If you want to look for an existing dataset for various assignments, I have assembled an list of [data sources](https://github.com/bus-strat-analytics/data-sources) you can use as an initial point for your search.
 
 ## Recommended Books
-While no books are required for this class, I highly recommend a selection of the following books to complement what you will see during the term.
+While no books are required for this class, I recommend a selection of the following books to complement what you will see during the term.
 
-  1. **Strategy**
+  1. **Foundational**
+    - Diez, D. M., C. D. Barr, and M. Cetinkaya-Rundel (2015). [OpenIntro Statistics](https://www.openintro.org/stat/textbook.php). OpenIntro.
     - Grant, R. M. (2016). Contemporary Strategy Analysis. United Kingdom: John Wiley & Sons Ltd.
     - Varian, H. R. and C. Shapiro (1998). Information Rules. Cambridge: Harvard Business School Press.
 
-  2. **Data Summarization, Graphing, and Visualization**
+  2. **Analytics**
     - Berinato, S. (2016). Good Charts. Boston: Harvard Business Review Press.
     - Few, S. (2012). Show Me The Numbers: Designing Tables and Graphs to Enlighten. Burlingame, CA: Analytics Press.
-
-  3. **Statistics, Econometrics, and Machine Learning**
-    - Diez, D. M., C. D. Barr, and M. Cetinkaya-Rundel (2015). [OpenIntro Statistics](https://www.openintro.org/stat/textbook.php). OpenIntro.
-    - Morgan, S.L. and C. Winship (2007). Counterfactuals and Causal Inference. Cambridge: Cambridge University Press.
     - James, G., D. Witten, T. Hastie, and R. Tibshirani (2015). [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/). New York: Springer.
+    - Morgan, S.L. and C. Winship (2007). Counterfactuals and Causal Inference. Cambridge: Cambridge University Press.
 
 ## Schedule
 We will break down each day into six blocks of approximately 70 minutes and class time will be divided between interactive lectures and student-led sessions.
