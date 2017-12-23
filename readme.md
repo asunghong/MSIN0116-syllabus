@@ -63,7 +63,7 @@ To promote participation, students may be "cold" or "warm" called (where I write
 Individual assessed assignments will consist of one written submission.
 
 ### Team project (35%)
-Students are asked to form teams and produce a culminating project. Teams will consist of up to five students. Your team may choose one of two project types. Project types are flexible and I invite teams to craft the project that best suits their interests.
+Students are asked to form teams and produce a culminating project. Teams will consist of up to four students. Your team may choose one of two project types. Project types are flexible and I invite teams to craft the project that best suits their interests.
   
   1. **Data project.** You are the data team of your firm and you are presenting a research project to executive management as a means for better understanding the business. This could include a study of customers, transactions, sales performance, costs, etc. Identify a dataset of interest to your team. Frame your study question and then conduct the appropriate analysis, provide a result and next steps (e.g. policy recommendation, follow on research agenda, a design for an experiment).
 
@@ -72,15 +72,15 @@ Students are asked to form teams and produce a culminating project. Teams will c
 ## Schedule
 We will break down each day into six blocks of approximately 70 minutes and class time will be divided between interactive lectures (&#x1F4E3;) and investigations (&#x1F50E;).
 
-| Block | Day 1                               | Day 2                                  | Day 3                                  | Day 4                               |
-| :---  | :----                               | :----                                  | :----                                  | :----                               |
-| 1     | &#x1F4E3;Introduction               | &#x1F50E;Case: Yammer — Data Insights  | &#x1F4E3;Causal Models                 | &#x1F50E;Case: Yammer — Experiments |
-| 2     | &#x1F4E3;Strategy (P)review         | &#x1F4E3;Inference/Regression          | &#x1F50E;Causal Model Lab              | &#x1F4E3;Advanced Methods           |
-| 3     | &#x1F50E;Problem Framing            | &#x1F4E3;Inference/Regression (cont'd) | &#x1F4E3;Economics of Data / Platforms | &#x1F50E;Advanced Methods Lab       |
-|       | _Break_                             | _Break_                                | _Break_                                | _Break_                             |
-| 4     | &#x1F50E;Problem Framing (cont'd)   | &#x1F50E;Regression Lab                | &#x1F50E;Platforms Discussion          | &#x1F50E;Ethics                     |
-| 5     | &#x1F4E3;Probability/Statistics     | &#x1F4E3;Correlation and Causation     | &#x1F4E3;Experiments                   | &#x1F50E;Ethics (cont'd)            |
-| 6     | &#x1F50E;Probability/Statistics Lab | &#x1F50E;Correlation and Causation Lab | &#x1F50E;Experiments Lab               | &#x1F4E3;Conclusion                 |
+| Block | Day 1                               | Day 2                                  | Day 3                                  | Day 4                             |
+| :---  | :----                               | :----                                  | :----                                  | :----                             |
+| 1     | &#x1F4E3;Introduction               | &#x1F50E;Data Summarization            | &#x1F4E3;Causal Models                 | &#x1F50E;Strategy and Experiments |
+| 2     | &#x1F4E3;Strategy (P)review         | &#x1F4E3;Inference/Regression          | &#x1F50E;Causal Model Lab              | &#x1F4E3;Advanced Methods         |
+| 3     | &#x1F50E;Problem Framing            | &#x1F4E3;Inference/Regression (cont'd) | &#x1F4E3;Data-based Business Models | &#x1F50E;Advanced Methods Lab     |
+|       | _Break_                             | _Break_                                | _Break_                                | _Break_                           |
+| 4     | &#x1F50E;Problem Framing (cont'd)   | &#x1F50E;Regression Lab                | &#x1F50E;Platforms Discussion          | &#x1F50E;Ethics                   |
+| 5     | &#x1F4E3;Probability/Statistics     | &#x1F4E3;Correlation and Causation     | &#x1F4E3;Experiments                   | &#x1F50E;Ethics (cont'd)          |
+| 6     | &#x1F50E;Probability/Statistics Lab | &#x1F50E;Correlation and Causation Lab | &#x1F50E;Experiments Lab               | &#x1F4E3;Conclusion               |
 
 ## Reading List
 Please visit the [UCL Reading List](http://readinglists.ucl.ac.uk/lists/7BF5AF09-2B92-9B53-D6E2-B00BE08E56C5.html) to see the readings for this course.
