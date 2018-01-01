@@ -68,12 +68,12 @@ Students are asked to form teams and produce a culminating project. Teams will c
   2. **Data-based business proposal.** For students who are considering entrepreneurial activities after graduation, you have the opportunity to act as an entrepreneurial team pitching a new business idea to an audience of startup mentors and investors. Your startup involves data-based or platform services. Craft a "business plan" (with an emphasis on the strategy-related aspects of the plan, including value proposition, competitive positioning, business model, etc.)
 
 ## Schedule
-We will break down each day into six blocks of approximately 70 minutes and class time will be divided between interactive lectures (&#x1F4E3;) and investigations (&#x1F50E;).
+We will break down each day into six blocks of approximately 70 minutes and class time will be divided between interactive lectures (&#x1F4E3;) and labs/investigations (&#x1F50E;).
 
 | Block | Day 1                               | Day 2                                  | Day 3                                   | Day 4                             |
 | :---  | :----                               | :----                                  | :----                                   | :----                             |
-| 1     | &#x1F4E3;Introduction               | &#x1F50E;Data Summarization            | &#x1F4E3;Correlations and Causal Models | &#x1F50E;Strategy and Experiments |
-| 2     | &#x1F4E3;Strategy (P)review         | &#x1F4E3;Inference/Regression          | &#x1F50E;Causal Model Lab               | &#x1F4E3;Advanced Methods         |
+| 1     | &#x1F4E3;Introduction               | &#x1F50E;Data Summarization            | &#x1F4E3;Correlations and Causal Graphs | &#x1F50E;Strategy and Experiments |
+| 2     | &#x1F4E3;Strategy (P)review         | &#x1F4E3;Inference/Regression          | &#x1F50E;Causal Graphs Lab               | &#x1F4E3;Advanced Methods         |
 | 3     | &#x1F50E;Problem Framing            | &#x1F4E3;Inference/Regression (cont'd) | &#x1F4E3;Data-based Business Models     | &#x1F50E;Advanced Methods Lab     |
 |       | _Break_                             | _Break_                                | _Break_                                 | _Break_                           |
 | 4     | &#x1F50E;Problem Framing (cont'd)   | &#x1F50E;Regression Lab                | &#x1F50E;Platforms Discussion           | &#x1F50E;Ethics                   |
