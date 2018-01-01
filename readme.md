@@ -78,7 +78,7 @@ We will break down each day into six blocks of approximately 70 minutes and clas
 |       | _Break_                             | _Break_                                | _Break_                                 | _Break_                           |
 | 4     | &#x1F50E;Problem Framing (cont'd)   | &#x1F50E;Regression Lab                | &#x1F50E;Platforms Discussion           | &#x1F50E;Ethics                   |
 | 5     | &#x1F4E3;Probability/Statistics     | &#x1F50E;Regression Lab                | &#x1F4E3;Experiments                    | &#x1F50E;Ethics (cont'd)          |
-| 6     | &#x1F50E;Probability/Statistics Lab | &#x1F4E3;Review, Group updates         | &#x1F50E;Experiments Lab                | &#x1F4E3;Conclusion               |
+| 6     | &#x1F50E;Probability/Statistics Lab | &#x1F50E;Review, Group updates         | &#x1F50E;Experiments Lab                | &#x1F4E3;Conclusion               |
 
 ## Reading List
 Please visit the [UCL Reading List](http://readinglists.ucl.ac.uk/lists/7BF5AF09-2B92-9B53-D6E2-B00BE08E56C5.html) to see the readings for this course.
