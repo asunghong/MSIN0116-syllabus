@@ -73,8 +73,8 @@ We will break down each day into six blocks of approximately 70 minutes and clas
 | Block | Day 1                               | Day 2                                  | Day 3                                   | Day 4                             |
 | :---  | :----                               | :----                                  | :----                                   | :----                             |
 | 1     | &#x1F4E3;Introduction               | &#x1F50E;Data Summarization            | &#x1F4E3;Correlations and Causal Graphs | &#x1F50E;Strategy and Experiments |
-| 2     | &#x1F4E3;Strategy (P)review         | &#x1F4E3;Inference/Regression          | &#x1F50E;Causal Graphs Lab               | &#x1F4E3;Advanced Methods         |
-| 3     | &#x1F50E;Problem Framing            | &#x1F4E3;Inference/Regression (cont'd) | &#x1F4E3;Data-based Business Models     | &#x1F50E;Advanced Methods Lab     |
+| 2     | &#x1F4E3;Strategy (P)review         | &#x1F4E3;Inference/Regression          | &#x1F50E;Causal Graphs Lab              | &#x1F4E3;Advanced Methods         |
+| 3     | &#x1F50E;Problem Framing            | &#x1F4E3;Inference/Regression (cont'd) | &#x1F4E3;Data-based Business Models     | &#x1F50E;Review, Group updaptes   |
 |       | _Break_                             | _Break_                                | _Break_                                 | _Break_                           |
 | 4     | &#x1F50E;Problem Framing (cont'd)   | &#x1F50E;Regression Lab                | &#x1F50E;Platforms Discussion           | &#x1F50E;Ethics                   |
 | 5     | &#x1F4E3;Probability/Statistics     | &#x1F50E;Regression Lab                | &#x1F4E3;Experiments                    | &#x1F50E;Ethics (cont'd)          |
