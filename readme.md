@@ -14,6 +14,7 @@
 I would like to make explicit some norms that I hope are wholly embraced in the classroom.
   - Treat our time in the classroom as you would meeting with the executive team or board of directors of your company. This means listening to and respecting the perspectives of your peers. It also means speaking up and disagreeing when you have a different opinion.
   - Arrive to class on time and prepared to contribute
+  - Participating in class (both speaking and listening to your colleagues) is a critical component of this module
   - Take risks with your ideas
   - Speak in class if you have a question
   - Embrace failure and the iterative nature of learning and discovery
@@ -52,15 +53,12 @@ While no books are required for this class, I recommend a selection of the follo
     - Morgan, S.L. and C. Winship (2007). Counterfactuals and Causal Inference. Cambridge: Cambridge University Press.
 
 ## Assessment
-Assessment is based on class participation, an individual assignment, and a team project.
+Assessment is based on an individual assignment and a team project.
 
-### Class Participation (20%)
-This course depends on the participation of all the students. Active engagement promotes a more lively discussion and debate. It is in the exchange of ideas that new and interesting ways of thinking about the concepts in the course emerge. The level and quality of your participation will be part of your assessment.
-  
-### Individual assignment (45%)
+### Individual assignment (60%)
 Individual assessed assignments will consist of one written submission.
 
-### Team project (35%)
+### Team project (40%)
 Students are asked to form teams and produce a culminating project. Teams will consist of up to four students. Your team may choose one of two project types. Project types are flexible and I invite teams to craft the project that best suits their interests.
   
   1. **Data project.** You are the data team of your firm and you are presenting a research project to executive management as a means for better understanding the business. This could include a study of customers, transactions, sales performance, costs, etc. Identify a dataset of interest to your team. Frame your study question and then conduct the appropriate analysis, provide a result and next steps (e.g. policy recommendation, follow on research agenda, a design for an experiment).
@@ -70,15 +68,33 @@ Students are asked to form teams and produce a culminating project. Teams will c
 ## Schedule
 We will break down each day into six blocks of approximately 70 minutes and class time will be divided between interactive lectures (&#x1F4E3;) and labs/investigations (&#x1F50E;).
 
-| Block | Day 1                             | Day 2                               | Day 3                                   | Day 4                             |
-| :---  | :----                             | :----                               | :----                                   | :----                             |
-| 1     | &#x1F4E3;Introduction             | &#x1F50E;Probability/Statistics Lab | &#x1F4E3;Correlations and Causal Graphs | &#x1F50E;Strategy and Experiments |
-| 2     | &#x1F4E3;Strategy (P)review       | &#x1F4E3;Inference/Regression       | &#x1F50E;Causal Graphs Lab              | &#x1F4E3;Advanced Methods         |
-| 3     | &#x1F50E;Problem Framing          | &#x1F4E3;Inference/Regression       | &#x1F4E3;Data-based Business Models     | &#x1F50E;Review, Group updaptes   |
-|       | _Break_                           | _Break_                             | _Break_                                 | _Break_                           |
-| 4     | &#x1F50E;Problem Framing (cont'd) | &#x1F50E;Regression Lab             | &#x1F50E;Platforms Discussion           | &#x1F50E;Ethics                   |
-| 5     | &#x1F4E3;Probability/Statistics   | &#x1F50E;Regression Lab             | &#x1F4E3;Experiments                    | &#x1F50E;Ethics (cont'd)          |
-| 6     | &#x1F4E3;Probability/Statistics   | &#x1F50E;Review, Group updates      | &#x1F50E;Experiments Lab                | &#x1F4E3;Conclusion               |
+| Full-Time   | Part-Time |       |                                         |
+| Day         | Day       | Block | Day 1                                   |
+| :---------- | :-------- | :---- | :----                                   |
+| 1           | 1         | 1     | &#x1F4E3;Introduction                   |
+| 1           | 1         | 2     | &#x1F4E3;Strategy (P)review             |
+| 1           | 1         | 3     | &#x1F50E;Problem Framing                |
+| 1           | 2         | 4     | &#x1F50E;Problem Framing (cont'd)       |
+| 1           | 2         | 5     | &#x1F4E3;Probability/Statistics         |
+| 1           | 2         | 6     | &#x1F4E3;Probability/Statistics         |
+| 2           | 2         | 7     | &#x1F50E;Probability/Statistics Lab     |
+| 2           | 2         | 8     | &#x1F4E3;Inference/Regression           |
+| 2           | 2         | 9     | &#x1F4E3;Inference/Regression           |
+| 2           | 3         | 10    | &#x1F50E;Regression Lab                 |
+| 2           | 3         | 11    | &#x1F50E;Regression Lab                 |
+| 2           | 3         | 12    | &#x1F50E;Review, Group updates          |
+| 3           | 3         | 13    | &#x1F4E3;Correlations and Causal Graphs |
+| 3           | 3         | 14    | &#x1F50E;Causal Graphs Lab              |
+| 3           | 3         | 15    | &#x1F4E3;Data-based Business Models     |
+| 3           | 4         | 16    | &#x1F50E;Platforms Discussion           |
+| 3           | 4         | 17    | &#x1F4E3;Experiments                    |
+| 3           | 4         | 18    | &#x1F50E;Experiments Lab                |
+| 4           | 4         | 19    | &#x1F50E;Strategy and Experiments       |
+| 4           | 4         | 20    | &#x1F4E3;Advanced Methods               |
+| 4           | 4         | 21    | &#x1F50E;Review, Group updaptes         |
+| 4           | 5         | 22    | &#x1F50E;Ethics                         |
+| 4           | 5         | 23    | &#x1F50E;Ethics (cont'd)                |
+| 4           | 5         | 24    | &#x1F4E3;Conclusion                     |
 
 ## Reading List
 Please visit the [UCL Reading List](http://readinglists.ucl.ac.uk/lists/7BF5AF09-2B92-9B53-D6E2-B00BE08E56C5.html) to see the readings for this course.
