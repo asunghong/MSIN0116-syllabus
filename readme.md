@@ -68,33 +68,32 @@ Students are asked to form teams and produce a culminating project. Teams will c
 ## Schedule
 We will break down each day into six blocks of approximately 70 minutes and class time will be divided between interactive lectures (&#x1F4E3;) and labs/investigations (&#x1F50E;).
 
-| Full-Time   | Part-Time |       |                                         |
-| Day         | Day       | Block | Day 1                                   |
-| :---------- | :-------- | :---- | :----                                   |
-| 1           | 1         | 1     | &#x1F4E3;Introduction                   |
-| 1           | 1         | 2     | &#x1F4E3;Strategy (P)review             |
-| 1           | 1         | 3     | &#x1F50E;Problem Framing                |
-| 1           | 2         | 4     | &#x1F50E;Problem Framing (cont'd)       |
-| 1           | 2         | 5     | &#x1F4E3;Probability/Statistics         |
-| 1           | 2         | 6     | &#x1F4E3;Probability/Statistics         |
-| 2           | 2         | 7     | &#x1F50E;Probability/Statistics Lab     |
-| 2           | 2         | 8     | &#x1F4E3;Inference/Regression           |
-| 2           | 2         | 9     | &#x1F4E3;Inference/Regression           |
-| 2           | 3         | 10    | &#x1F50E;Regression Lab                 |
-| 2           | 3         | 11    | &#x1F50E;Regression Lab                 |
-| 2           | 3         | 12    | &#x1F50E;Review, Group updates          |
-| 3           | 3         | 13    | &#x1F4E3;Correlations and Causal Graphs |
-| 3           | 3         | 14    | &#x1F50E;Causal Graphs Lab              |
-| 3           | 3         | 15    | &#x1F4E3;Data-based Business Models     |
-| 3           | 4         | 16    | &#x1F50E;Platforms Discussion           |
-| 3           | 4         | 17    | &#x1F4E3;Experiments                    |
-| 3           | 4         | 18    | &#x1F50E;Experiments Lab                |
-| 4           | 4         | 19    | &#x1F50E;Strategy and Experiments       |
-| 4           | 4         | 20    | &#x1F4E3;Advanced Methods               |
-| 4           | 4         | 21    | &#x1F50E;Review, Group updaptes         |
-| 4           | 5         | 22    | &#x1F50E;Ethics                         |
-| 4           | 5         | 23    | &#x1F50E;Ethics (cont'd)                |
-| 4           | 5         | 24    | &#x1F4E3;Conclusion                     |
+| Full-Time Day | Part-Time Day | Block | Topic                                   |
+| ------------: | ------------: | ----: | :----                                   |
+| 1             | 1             | 1     | &#x1F4E3;Introduction                   |
+| 1             | 1             | 2     | &#x1F4E3;Strategy (P)review             |
+| 1             | 1             | 3     | &#x1F50E;Problem Framing                |
+| 1             | 2             | 4     | &#x1F50E;Problem Framing (cont'd)       |
+| 1             | 2             | 5     | &#x1F4E3;Probability/Statistics         |
+| 1             | 2             | 6     | &#x1F4E3;Probability/Statistics         |
+| 2             | 2             | 7     | &#x1F50E;Probability/Statistics Lab     |
+| 2             | 2             | 8     | &#x1F4E3;Inference/Regression           |
+| 2             | 2             | 9     | &#x1F4E3;Inference/Regression           |
+| 2             | 3             | 10    | &#x1F50E;Regression Lab                 |
+| 2             | 3             | 11    | &#x1F50E;Regression Lab                 |
+| 2             | 3             | 12    | &#x1F50E;Review, Group updates          |
+| 3             | 3             | 13    | &#x1F4E3;Correlations and Causal Graphs |
+| 3             | 3             | 14    | &#x1F50E;Causal Graphs Lab              |
+| 3             | 3             | 15    | &#x1F4E3;Data-based Business Models     |
+| 3             | 4             | 16    | &#x1F50E;Platforms Discussion           |
+| 3             | 4             | 17    | &#x1F4E3;Experiments                    |
+| 3             | 4             | 18    | &#x1F50E;Experiments Lab                |
+| 4             | 4             | 19    | &#x1F50E;Strategy and Experiments       |
+| 4             | 4             | 20    | &#x1F4E3;Advanced Methods               |
+| 4             | 4             | 21    | &#x1F50E;Review, Group updaptes         |
+| 4             | 5             | 22    | &#x1F50E;Ethics                         |
+| 4             | 5             | 23    | &#x1F50E;Ethics (cont'd)                |
+| 4             | 5             | 24    | &#x1F4E3;Conclusion                     |
 
 ## Reading List
 Please visit the [UCL Reading List](http://readinglists.ucl.ac.uk/lists/7BF5AF09-2B92-9B53-D6E2-B00BE08E56C5.html) to see the readings for this course.
