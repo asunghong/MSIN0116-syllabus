@@ -8,7 +8,7 @@
   - Offered: December 2018
   - Full Time: Weekdays
   - Part Time: Weekends
-  - Hours: Morning session 9:00am - 12:30pm, Afternoon session 2:00pm-5:30pm
+  - Hours: Morning session 9:00am - 12:30pm, afternoon session 2:00pm-5:30pm
  
 ## Class Norms
 I would like to make explicit some norms that I hope are wholly embraced in the classroom.
@@ -24,13 +24,14 @@ I would like to make explicit some norms that I hope are wholly embraced in the 
 By taking this module, you are agreeing to maintain the highest level of academic and professional integrity. For your work, this means citing sources wherever appropriate and producing work that is your own. Cheating, plagiarizing, or misrepresenting one's work are a violation of our classroom's aspirational norms and the program's code of conduct.
 
 ## Software
-Because we focus on underlying principles, I do not require the use of any specific software or tools. For required work, it is the student's responsibility to understand the problem, identify a path towards solution, and implement that path how he or she sees fit.
+Because we focus on underlying principles, we will not use of any specific software or tools. In the assignments, students will focus on conceptual application and interpretation of analytics-related approaches. The goal is to understand the problem, identify a path towards solution, and describe that path.
 
-Having said that, I provide supplemental resources for students to study the tools and implementation of the approaches we discuss in class. Those resources will refer to the following software:
-
-- [MS Excel](https://products.office.com/en-us/excel) and [Numbers](https://www.apple.com/numbers/). Spreadsheets.
-- [Tableau](http://www.tableau.com/). Data visualization tool.
+For those who are interested in applications used for many of the approaches we will see in class, I would suggest taking a look at R or Python. Below are some resources as a start.
 - [RStudio](https://www.rstudio.com). Integrated development environment (IDE) for the statistical programming language, [R](https://cran.r-project.org).
+  + [R for Data Science](http://r4ds.had.co.nz/index.html)
+- [Python](https://www.python.org)
+  + [Data Analysis in Python](http://www.data-analysis-in-python.org/index.html)
+  + [Learn Python the Hard Way](https://learnpythonthehardway.org/book/)
 
 ## Datasets
 Data is everywhere online. If you want to explore data during or after our time together, I have assembled an list of [data sources](https://github.com/bus-strat-analytics/data-sources) you can use as an initial point for your search.
@@ -49,18 +50,22 @@ Assessment is based on an individual assignment (60%) and a team project (40%).
 Teams will consist of four to five students (no more than five) and will work on devising a business plan that combines the strategy-related topics we cover in class with the analytics topics.
 
 ## Schedule
-We will break down each day into six blocks of approximately 70 minutes and class time will be divided between interactive lectures and labs/investigations. Below is the schedule, listing topics we will cover.
+We will break down each day into six blocks of approximately 70 minutes and class time will be divided between interactive lectures and labs/investigations. Below is the a list of the topics we will cover.
 
-|     | Topic                      |
-| :-- | :----                      |
-| 1   | Introduction               |
-| 2   | Strategy (P)review         |
-| 3   | Probability/Statistics     |
-| 4   | Inference/Regression       |
-| 5   | Prediction Analytics       |
-| 6   | Correlations and Causation |
-| 7   | Experiments                |
-| 8   | Causal Models              |
-| 9   | Platform Strategy          |
-| 10  | Data-based Business Models |
-| 11  | Conclusion                 |
+|     | Topic                                       |
+| :-- | :----                                       |
+| 1   | Introduction                                |
+| 2   | Strategy Review                             |
+| 3   | Data Fundamentals and Descriptive Analytics |
+| 4   | Probability                                 |
+| 5   | Statistical Inference and Regression        |
+| 6   | Prediction Analytics                        |
+| 7   | Correlations vs Causation                   |
+| 8   | Experiments                                 |
+| 9   | Data-based Business Models                  |
+| 10  | Platform Strategy                           |
+| 11  | Problem Framing                             |
+| 12  | Advanced Methods (Time Permitting)          |
+| 13  | Conclusion                                  |
+
+
