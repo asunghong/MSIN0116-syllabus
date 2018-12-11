@@ -24,7 +24,7 @@ I would like to make explicit some norms that I hope are wholly embraced in the 
 By taking this module, you are agreeing to maintain the highest level of academic and professional integrity. For your work, this means citing sources wherever appropriate and producing work that is your own. Cheating, plagiarizing, or misrepresenting one's work are a violation of our classroom's aspirational norms and the program's code of conduct.
 
 ## Software
-Because we focus on underlying principles, we will not use of any specific software or tools. In the assignments, students will focus on conceptual application and interpretation of analytics-related approaches. The goal is to understand the problem, identify a path towards solution, and describe that path.
+Because we focus on underlying principles, we will not use of any specific software or tools. In the assignments, students will focus on conceptual application and interpretation of analytics-related approaches. The goal is to understand the problem and identify a path towards a solution.
 
 For those who are interested in applications used for many of the approaches we will see in class, I would suggest taking a look at R or Python. Below are some resources as a start.
 - [RStudio](https://www.rstudio.com). Integrated development environment (IDE) for the statistical programming language, [R](https://cran.r-project.org).
@@ -47,10 +47,10 @@ While no books are required for this class, I recommend a selection of the follo
 ## Assessment
 Assessment is based on an individual assignment (60%) and a team project (40%).
 
-Teams will consist of four to five students (no more than five) and will work on devising a business plan that combines the strategy-related topics we cover in class with the analytics topics.
+Teams will consist of three to four students (check with me if you want to form a team of five) and will work on devising a business plan that combines the strategy-related topics we cover in class with the analytics topics.
 
 ## Schedule
-We will break down each day into six blocks of approximately 70 minutes and class time will be divided between interactive lectures and labs/investigations. Below is the a list of the topics we will cover.
+We will break down each day into six blocks of approximately 70 minutes and class time will be divided between interactive lectures and labs/investigations. Below is the the schedule.
 
 |     | Topic                                       |
 | :-- | :----                                       |
@@ -60,12 +60,9 @@ We will break down each day into six blocks of approximately 70 minutes and clas
 | 4   | Probability                                 |
 | 5   | Statistical Inference and Regression        |
 | 6   | Prediction Analytics                        |
-| 7   | Correlations vs Causation                   |
+| 7   | Correlation vs Causation                    |
 | 8   | Experiments                                 |
 | 9   | Data-based Business Models                  |
 | 10  | Platform Strategy                           |
 | 11  | Problem Framing                             |
-| 12  | Advanced Methods (Time Permitting)          |
-| 13  | Conclusion                                  |
-
-
+| 12  | Conclusion                                  |
