@@ -55,14 +55,14 @@ We will break down each day into six blocks of approximately 70 minutes and clas
 |     | Topic                                       |
 | :-- | :----                                       |
 | 1   | Introduction                                |
-| 2   | Strategy Review                             |
-| 3   | Data Fundamentals and Descriptive Analytics |
-| 4   | Probability                                 |
-| 5   | Statistical Inference and Regression        |
-| 6   | Prediction Analytics                        |
-| 7   | Correlation vs Causation                    |
-| 8   | Experiments                                 |
-| 9   | Data-based Business Models                  |
-| 10  | Platform Strategy                           |
-| 11  | Problem Framing                             |
+| 2   | Problem Framing                             |
+| 3   | Strategy Review                             |
+| 4   | Data Fundamentals and Descriptive Analytics |
+| 5   | Probability                                 |
+| 6   | Statistical Inference and Regression        |
+| 7   | Prediction Analytics                        |
+| 8   | Correlation vs Causation                    |
+| 9   | Experiments                                 |
+| 10  | Data-based Business Models                  |
+| 11  | Platform Strategy                           |
 | 12  | Conclusion                                  |
